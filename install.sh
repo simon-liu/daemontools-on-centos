@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /tmp
+cd /opt/daemontools
 wget http://cr.yp.to/daemontools/daemontools-0.76.tar.gz
 tar -xzvf daemontools-0.76.tar.gz
 rm -f daemontools-0.76.tar.gz
